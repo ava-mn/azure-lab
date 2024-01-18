@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-01-17T05:30:39.0933871Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2024-01-17T05:20:45.5132549Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2024-01-17T05:22:04.4296742Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "ba8d99ad-8c07-49ef-bdef-1e93d12f6a49"
+    },
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "rg-todo-pj-mn"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "rg-todo-pj-mn"
+    },
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "rg-todo-pj-mn"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "ba8d99ad-8c07-49ef-bdef-1e93d12f6a49"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "ba8d99ad-8c07-49ef-bdef-1e93d12f6a49"
+    }
+  }
+}

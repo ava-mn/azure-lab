@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+このファイルは、Web プロジェクトの公開 / パッケージ処理で使用されます。この MSBuild ファイルを編集すると、
+この処理の動作をカスタマイズできます。詳細については、https://go.microsoft.com/fwlink/?LinkID=208121 を参照してください。 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAFvMlybt+EyWxelQJ4nt+QAAAAACAAAAAAADZgAAwAAAABAAAADV7Nx9QQdgMZgMdi4jQGFhAAAAAASAAACgAAAAEAAAAOy+O5M5IIqz4FNPMBL2FYWAAAAApEJHSXjV12Jh/3Pp38xp9Z73FyX+448yYZy2RXc6xbb/mR4Zpx2MfMrPPFn0mx3queWpRvIsF/5INx1jpHPW6dKOaElYt27UeAicrYYkrPaXcHO+sywS1GF4ggMVWb0gDddqY5Ice+Hzk79uVlkGzZb6snRCujJ53lWtacHsw0oUAAAAbZstJV5+N2tocvZ0RWmRXiLZLxI=</EncryptedPassword>
+    <History>True|2024-01-17T11:02:21.5814334Z;True|2024-01-17T19:34:44.7505080+09:00;False|2024-01-17T19:27:22.3063130+09:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
