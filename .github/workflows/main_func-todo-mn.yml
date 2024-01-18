@@ -3,7 +3,7 @@
 
 name: Build and deploy dotnet core app to Azure Function App - func-todo-mn
 
-on: |+
+on:
   push:
     branches:
       - main
